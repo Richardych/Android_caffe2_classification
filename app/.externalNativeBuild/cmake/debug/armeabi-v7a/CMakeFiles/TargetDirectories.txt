@@ -1,0 +1,4 @@
+/Users/yuchaohui/Downloads/Android/7cls/ws/Android_caffe2_classification/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/yuchaohui/Downloads/Android/7cls/ws/Android_caffe2_classification/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/yuchaohui/Downloads/Android/7cls/ws/Android_caffe2_classification/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/cpufeatures.dir
+/Users/yuchaohui/Downloads/Android/7cls/ws/Android_caffe2_classification/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir

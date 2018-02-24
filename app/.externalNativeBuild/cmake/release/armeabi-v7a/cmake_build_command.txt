@@ -1,0 +1,15 @@
+Executable : /Users/yuchaohui/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/yuchaohui/Downloads/Android/7cls/ws/Android_caffe2_classification/app
+-B/Users/yuchaohui/Downloads/Android/7cls/ws/Android_caffe2_classification/app/.externalNativeBuild/cmake/release/armeabi-v7a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/yuchaohui/Library/Android/sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/yuchaohui/Downloads/Android/7cls/ws/Android_caffe2_classification/app/build/intermediates/cmake/release/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=/Users/yuchaohui/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/Users/yuchaohui/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_PLATFORM=android-22
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions -std=c++11
+jvmArgs : 
+
